@@ -1,0 +1,104 @@
+
+body {
+    background-color: #FFEEF5;
+}
+
+.css-selector {
+  font-family: 'Amiko';
+}
+.css-selector {
+  font-family: 'Cedarville Cursive';
+}
+
+.css-selector {
+  font-family: 'Cutive Mono';
+}
+
+
+h1 {
+    color: #B96017;
+    font-family: 'Amiko';
+    font-size: 70px;
+}
+
+h2 {
+    color: #B96017;
+    font-family: 'Cedarville Cursive';
+    font-size: 60px;
+}
+
+
+
+p1 {
+    
+    font-family: 'Cutive Mono';
+    font-size: 30px;
+    
+}
+
+
+a {
+    color: hotpink;
+    text-decoration: none;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+	display: inline-block;
+}
+
+.image1 {
+	width: 250px;
+	padding-top: 22px;
+}
+
+.image2 {
+	width: 400px;
+	padding: 22px;
+}
+
+
+li {
+	display: inline;
+    float: left;
+    font-family: 'Cutive Mono';
+	color: #796472;
+	font-size: 30px;
+	padding: 25px;
+}
+
+li a {
+	color: #FF8DD2;
+}
+
+li a:hover {
+    color: #FF5DD2;
+}
+
+
+.round_left {
+    border-radius: 15px 0 0 15px;   
+}
+
+.round_right {
+    border-radius: 0 15px 15px 0;   
+}
+
+
+
+article {
+    font-family: 'Cutive Mono';
+    text-align:justify;
+    font-size: 30px;
+    width: 700px;
+    padding: 1em;
+    overflow: hidden;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+
