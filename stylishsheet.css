@@ -19,15 +19,19 @@ body {
   font-family: 'Dosis', sans-serif;
 }
 
+.css-selector {
+  font-family: 'Press Start 2P', cursive;
+}
+
 h1 {
     color: #B96017;
     font-family: 'Dosis';
-    font-size: 30px;
+    font-size: 16px;
 }
 
 h2 {
     color: #A6370F;
-    font-family: 'Poiret One';
+    font-family: 'Press Start 2P';
     font-size: 70px;
 }
 
