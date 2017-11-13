@@ -15,9 +15,13 @@ body {
   font-family: 'Poiret One';
 }
 
+.css-selector {
+  font-family: 'Dosis', sans-serif;
+}
+
 h1 {
     color: #B96017;
-    font-family: 'Amiko';
+    font-family: 'Dosis';
     font-size: 70px;
 }
 
