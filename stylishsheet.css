@@ -32,12 +32,13 @@ h1 {
     color: #B96017;
     font-family: 'Dosis';
     font-size: 30px;
-    padding: 70px;
+    padding-left: 40px;
+    padding-right: 40px;
 }
 
 h2 {
     color: #A6370F;
-    font-family: 'Poiret One';
+    font-family: 'Press Start 2P';
     font-size: 70px;
 }
 
