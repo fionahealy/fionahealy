@@ -1,6 +1,6 @@
 
 body {
-    background-color: #FFEEF5;
+    background-color: #B2536A;
 }
 
 .css-selector {
@@ -27,6 +27,10 @@ body {
   font-family: 'Cutive Mono';
 }
 
+.css-selector {
+  font-family: 'Vibur', cursive;
+}
+
 
 h1 {
     color: #B96017;
@@ -39,8 +43,8 @@ h1 {
 }
 
 h2 {
-    color: #A6370F;
-    font-family: 'Poiret One';
+    color: #FFF344;
+    font-family: 'Vibur';
     font-size: 70px;
 }
 
