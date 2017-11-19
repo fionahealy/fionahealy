@@ -31,6 +31,12 @@ body {
   font-family: 'Vibur';
 }
 
+.css-selector {
+  font-family: 'Varela Round', sans-serif;
+}
+
+
+
 
 h1 {
     color: #B96017;
@@ -85,10 +91,10 @@ ul {
 li {
 	display: inline;
     float: left;
-    font-family: 'Cutive Mono';
+    font-family: 'Varela Round';
 	color: #6DB3CC;
 	font-size: 30px;
-	padding: 35px;
+	padding: 45px;
 }
 
 li a {
