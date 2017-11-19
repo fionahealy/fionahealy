@@ -3,6 +3,24 @@ body {
     background-color: #B2536A;
 }
 
+#top,
+#bottom {
+    position: fixed;
+    left: 0;
+    right: 0;
+    height: 50%;
+}
+
+#top {
+    top: 0;
+    background-color: #B2536A;
+}
+
+#bottom {
+    bottom: 0;
+    background-color: #FFB1C4;
+}
+
 .css-selector {
   font-family: 'Amiko';
 }
