@@ -28,7 +28,7 @@ body {
 }
 
 .css-selector {
-  font-family: 'Vibur', cursive;
+  font-family: 'Vibur';
 }
 
 
@@ -45,7 +45,7 @@ h1 {
 h2 {
     color: #FFF344;
     font-family: 'Vibur';
-    font-size: 90px;
+    font-size: 70px;
 }
 
 
