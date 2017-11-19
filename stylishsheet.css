@@ -83,17 +83,17 @@ li {
 	display: inline;
     float: left;
     font-family: 'Cutive Mono';
-	color: #796472;
+	color: #6DB3CC;
 	font-size: 30px;
-	padding: 25px;
+	padding: 35px;
 }
 
 li a {
-	color: #FF8DD2;
+	color: #6DB3CC;
 }
 
 li a:hover {
-    color: #FF5DD2;
+    color: #258EB2;
 }
 
 
