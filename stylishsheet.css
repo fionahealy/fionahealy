@@ -85,6 +85,11 @@ h3 {
 	padding-left: 40px;
 }
 
+.floating-box {
+    display: inline-block;
+}
+
+
 p1 {
     
     font-family: 'Cutive Mono';
